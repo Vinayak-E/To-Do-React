@@ -1,4 +1,5 @@
 📝 To-Do App
+
 Welcome to the To-Do App built using React! This app allows users to easily manage tasks, offering features such as task addition, status updates, editing, and deletion. It has a clean and responsive design with the option to toggle between light and dark modes.
 
 🚀 Features
