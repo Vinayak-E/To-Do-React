@@ -1,6 +1,10 @@
+
 📝 To-Do App
 
 Welcome to the To-Do App built using React! This app allows users to easily manage tasks, offering features such as task addition, status updates, editing, and deletion. It has a clean and responsive design with the option to toggle between light and dark modes.
+
+
+ 
 
 🚀 Features
 Add New Tasks: Easily add tasks to your to-do list.
@@ -11,11 +15,15 @@ Dark Mode Support: Switch between light and dark themes for a personalized exper
 Responsive Design: Works seamlessly across all devices.
 
 💻 Technologies Used
+
 React: A JavaScript library for building user interfaces.
 Tailwind CSS: For styling and responsive layout.
 Lucide-React: Icons for task status (completed/pending).
 Vite: Fast and lightweight development environment.
+
+
 🎨 Design
+
 Clean and minimalistic UI, designed for ease of use.
 Gradient background with soft transitions.
 Responsive for both mobile and desktop users.
